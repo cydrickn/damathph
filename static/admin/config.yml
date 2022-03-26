@@ -10,8 +10,8 @@ backend:
 # used together with `npx netlify-cms-proxy-server`. https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 local_backend: true
 
-media_folder: public/images
-public_folder: /images
+media_folder: static/medias
+public_folder: /medias
 
 # Docs: https://www.netlifycms.org/docs/configuration-options/#collections
 collections:
