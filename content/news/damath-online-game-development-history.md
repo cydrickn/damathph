@@ -3,8 +3,8 @@ createdAt: 2021-03-26T16:00:00.000Z
 title: Damath Online Game development history
 description: Damath Online Game was develop by Cydrick Nonog, on the time of
   pandemic. Base on the known face to face Filipino board game.
+cover: /medias/623f1511049afca7a005dabb.png
 ---
-
 ## Introduction
 
 **Damath** is an educational board game that invented by Jesus Huenda, a teacher in the province of Sorsogon, Philippines.
@@ -26,8 +26,9 @@ and highschools before. And now a software engineer.
 I started the planning of the game on 27th of July a day before my birthday in the year of 2020. My plan were to help the
 schools and students to play, even they are away to each other.
 
-I started the development of the game on July 28, 2020 my birthday. I started creating the mvp to test if its really able to do it
-https://mvp.damath.ph/. After doing the mvp, the development started and plan to be an 3D board game as seen in the image below.
+I started the development of the game on July 28, 2020 my birthday. I started creating the \[mvp](https://mvp.damath.ph) to test if its really able to do it. After doing the mvp, the development started and plan to be an 3D board game as seen in the image below.
+
+![Initial damath online damath game](/medias/623f14ca6de5eb154c253d11.png "Initial damath online damath game")
 
 But due to lack of time because of my full time work, the development has been stopped.
 
@@ -53,6 +54,17 @@ You can also watch the other game.
 
 And I also decided to update the website for the game, where you can see the updates of the game.
 
+<div class="grid grid-cols-4 gap-4">
+
+![Game login](/medias/623f17d3d06ce71f8098778f.png "Game login")
+
+![Game rooms](/medias/623f17eac75b941d1fc74c23.png "Game rooms")
+
+![Game matching](/medias/623f17df8074008d3db9149b.png "Game matching")
+
+![Game](/medias/623f1511049afca7a005dabb.png "Game")
+
+</div>
 
 ## Future of the game
 
@@ -60,8 +72,3 @@ The future of the game will help the student to learn and play with others.
 There are a lots to be done in the game to make it work.
 In near future will introduce tournaments and more.
 I want this game also to be well known not only in the Philippines but also in other countries.
-
-
-
-
-
