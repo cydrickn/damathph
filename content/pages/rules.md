@@ -1,5 +1,8 @@
 ---
+createdAt: 2022-03-26T11:52:50.558Z
 title: Rules
+description: Damath Online Game is an online game base on the official board
+  game made by Filipino Damath.
 ---
 
 ### How to win?
