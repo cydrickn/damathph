@@ -7,6 +7,11 @@ module.exports = {
     "./nuxt.config.{js,ts}",
     "./content/**/*.md"
   ],
+  safelist: [
+    'grid',
+    'grid-cols-4',
+    'gap-4',
+  ],
   theme: {
     extend: {},
   },
