@@ -54,6 +54,11 @@ You can also watch the other game.
 
 And I also decided to update the website for the game, where you can see the updates of the game.
 
+<div class="w-1/4">![Game login](/medias/623f17d3d06ce71f8098778f.png "Game login")</div>
+<div class="w-1/4">![Game rooms](/medias/623f17eac75b941d1fc74c23.png "Game rooms")</div>
+<div class="w-1/4">![Game matching](/medias/623f17df8074008d3db9149b.png "Game matching")</div>
+<div class="w-1/4">![Game](/medias/623f1511049afca7a005dabb.png "Game")</div>
+
 ## Future of the game
 
 The future of the game will help the student to learn and play with others.
