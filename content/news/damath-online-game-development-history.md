@@ -56,22 +56,13 @@ And I also decided to update the website for the game, where you can see the upd
 
 <div class="grid grid-cols-4 gap-4">
 
-
-
 ![Game login](/medias/623f17d3d06ce71f8098778f.png "Game login")
-
-
 
 ![Game rooms](/medias/623f17eac75b941d1fc74c23.png "Game rooms")
 
-
-
 ![Game matching](/medias/623f17df8074008d3db9149b.png "Game matching")
 
-
 ![Game](/medias/623f1511049afca7a005dabb.png "Game")
-
-
 
 </div>
 
