@@ -3,8 +3,8 @@ createdAt: 2021-03-26T16:00:00.000Z
 title: Damath Online Game development history
 description: Damath Online Game was develop by Cydrick Nonog, on the time of
   pandemic. Base on the known face to face Filipino board game.
+cover: /images/game.png
 ---
-
 ## Introduction
 
 **Damath** is an educational board game that invented by Jesus Huenda, a teacher in the province of Sorsogon, Philippines.
@@ -26,8 +26,9 @@ and highschools before. And now a software engineer.
 I started the planning of the game on 27th of July a day before my birthday in the year of 2020. My plan were to help the
 schools and students to play, even they are away to each other.
 
-I started the development of the game on July 28, 2020 my birthday. I started creating the mvp to test if its really able to do it
-https://mvp.damath.ph/. After doing the mvp, the development started and plan to be an 3D board game as seen in the image below.
+I started the development of the game on July 28, 2020 my birthday. I started creating the [mvp](https://mvp.damath.ph/) to test if its really able to do it. After doing the mvp, the development started and plan to be an 3D board game as seen in the image below.
+
+![3d damath board game](/images/screenshot-2022-03-26-193835.png "3d damath board game")
 
 But due to lack of time because of my full time work, the development has been stopped.
 
@@ -53,15 +54,9 @@ You can also watch the other game.
 
 And I also decided to update the website for the game, where you can see the updates of the game.
 
-
 ## Future of the game
 
 The future of the game will help the student to learn and play with others.
 There are a lots to be done in the game to make it work.
 In near future will introduce tournaments and more.
 I want this game also to be well known not only in the Philippines but also in other countries.
-
-
-
-
-
