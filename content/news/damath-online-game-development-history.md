@@ -1,7 +1,8 @@
 ---
+createdAt: 2021-03-26T16:00:00.000Z
 title: Damath Online Game development history
-description: Damath Online Game was develop by Cydrick Nonog, on the time of pandemic. Base on the known face to face Filipino board game.
-createdAt: 2021-03-01
+description: Damath Online Game was develop by Cydrick Nonog, on the time of
+  pandemic. Base on the known face to face Filipino board game.
 ---
 
 ## Introduction
