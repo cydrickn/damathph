@@ -2,7 +2,7 @@
   <div class="absolute h-full w-full overflow-y-auto">
     <div class="container mx-auto px-4 my-8 overflow-auto">
       <article class="w-9/12 mx-auto">
-        <img v-if="post.cover" class="cover-image" :src="post.cover" />
+        <img v-if="post.cover" class="cover-image mb-8" :src="post.cover" />
         <h1 class="text-4xl mb-8">{{ post.title }}</h1>
         <nuxt-content :document="post" class="prose mx-auto max-w-none" />
       </article>
